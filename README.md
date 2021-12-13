@@ -12,6 +12,11 @@ Create config.json to test bot operation
 
 ![image](https://user-images.githubusercontent.com/77910713/145886486-97e5c122-ef40-4198-9b20-83814fc02dbc.png)
 
+Later
+-----
+Test the bot by creating a Telegram bot token and a Utopia token.
+
+And integrate the necessary methods and other APIs into the work of the bot.
 
 How can this be used?
 -----
