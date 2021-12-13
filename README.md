@@ -10,7 +10,8 @@ Usage
 
 Create config.json to test bot operation
 
-![image](https://user-images.githubusercontent.com/77910713/145886486-97e5c122-ef40-4198-9b20-83814fc02dbc.png)
+![image](https://user-images.githubusercontent.com/77910713/145889102-e24c9c58-8741-4e49-833d-4991bfff7102.png)
+
 
 Later
 -----
